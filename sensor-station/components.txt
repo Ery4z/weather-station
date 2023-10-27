@@ -1,0 +1,6 @@
+Multimetre:
+N-MOSFET PH1225AL pour switcher les resistances shunt
+INA226 pour le senseur de courant
+ESP32 pour interface
+
+MCP1700-3302E/TO voltage regulator tres faible courant minimum, faible courant max, en utiliser plusieurs en parrallel
